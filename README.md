@@ -1,2 +1,4 @@
 # Trevor
+
+[![Join the chat at https://gitter.im/tbrown0139/Trevor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tbrown0139/Trevor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Trevor
